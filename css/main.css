@@ -1,0 +1,33 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-color: teal;
+}
+
+main{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(168, 200, 200);
+    text-align: left;
+    justify-content: center;
+}
+
+article{
+    background-color: rgb(53, 53, 53);
+    color: whitesmoke;
+    width: 80%;
+    height: 30%;
+    margin: 0 auto;
+    border-radius: 50px;
+    padding: 2% 5%;
+}
+
+img{
+    width: 20%;
+    max-height: fit-content;
+    margin: 0 auto;
+}
+
+h2{
+    text-align: left;
+}
